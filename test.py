@@ -17,7 +17,6 @@ usr = Coords(20, 20)
 
 def main():
     usr.GoToMain()
-    usr.GoTo(50, 70)
     input()
 
 if __name__ == "__main__":
