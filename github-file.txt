@@ -1,2 +1,2 @@
 github-file
-File was created direcly on GitHub
+File was created directly on GitHub
